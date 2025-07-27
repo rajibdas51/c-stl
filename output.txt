@@ -1,5 +1,6 @@
-back element: 50
-Size of queue: 4
-Front element: 10
-20
-50
+Top element: 40
+Size of priority queue: 4
+New top element: 30
+Top element of min-heap: 10
+Size of min-heap: 4
+New top element of min-heap: 20
