@@ -1,4 +1,5 @@
-5
-3
-5
-0
+back element: 50
+Size of queue: 4
+Front element: 10
+20
+50
