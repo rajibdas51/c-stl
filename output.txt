@@ -1,4 +1,5 @@
-Size of set: 5
-Is 20 present? 2
+Size of set: 4
+Is 20 present? 1
 Is 50 present? No
-Elements in set: 10 20 30 40 
+Elements in set: 40 30 10 
+Countries = Korea, USA, India, Nepal, 
