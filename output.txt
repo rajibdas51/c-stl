@@ -1,6 +1,4 @@
-Top element: 40
-Size of priority queue: 4
-New top element: 30
-Top element of min-heap: 10
-Size of min-heap: 4
-New top element of min-heap: 20
+Size of set: 5
+Is 20 present? 2
+Is 50 present? No
+Elements in set: 10 20 30 40 
