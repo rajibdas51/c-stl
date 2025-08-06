@@ -1,8 +1,13 @@
-1 2
 2 5
 3 7
 4 8
 
-1-2
 2-5
 3-7
+Key - Value 
+1 - Un
+1 - One
+1 - Uno
+2 - Two
+2 - Dos
+2 - Deux
