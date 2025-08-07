@@ -1,13 +1,22 @@
-2 5
-3 7
-4 8
-
-2-5
-3-7
-Key - Value 
-1 - Un
-1 - One
-1 - Uno
-2 - Two
-2 - Dos
-2 - Deux
+Before sorting
+first - second
+1 - 2
+2 - 1
+4 - 1
+2 - 5
+After sorting
+first - second
+4 - 1
+2 - 1
+1 - 2
+2 - 5
+3
+5
+231
+312
+321
+8
+max value :343
+min value :1
+Min: 2
+Max: 20
